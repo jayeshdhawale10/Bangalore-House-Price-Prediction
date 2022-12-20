@@ -1,0 +1,1 @@
+This project, Bangalore House Price Prediction model is implemented using a Machine Learning algorithm. This model predicts the price of Bangalore's house with the help of a few parameters like bhk, bathrooms, total square feet, location. This project is made by Jayesh K Dhawale from Mechanical Branch at IIT Bhubaneswar.
